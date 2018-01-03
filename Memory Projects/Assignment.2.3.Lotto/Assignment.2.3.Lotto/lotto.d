@@ -1,1 +1,0 @@
-.\lotto.o: Lotto.s

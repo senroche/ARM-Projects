@@ -1,1 +1,0 @@
-.\countdown.o: Countdown.s
